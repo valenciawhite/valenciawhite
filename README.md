@@ -1,4 +1,4 @@
-# ✨ Valencia White ✨
+# ‧͙⁺˚*･༓☾ Valencia White ☽༓･*˚⁺‧͙
 Hey y'all, welcome to my profile! I'm a full-time software engineering student @ Flatiron School, learning Full-Stack Development. My developer's path is supplemented by my background in Graphic Design and Digital Illustration.
 - Currently learning React.js and Algorithims.
 - Currently working on the front-end of my web application "Tea Time". 
