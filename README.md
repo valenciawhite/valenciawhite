@@ -4,7 +4,7 @@ Hey y'all, welcome to my profile! I'm a full-time software engineering student @
 - Currently working on the front-end of my web application "Tea Time". 
 - I write articles on what I learn and my experience as a woman of color in tech on Dev.to . I mostly cover Html, CSS, and JavaScript topics. 
 - Besides coding, I'm passionate about  Capoeira, "human-language" language learning, and horror movies!
-- Currently doing #100DaysofCode. Follow my journey here!
+- Participating in #100DaysofCode. Follow my journey here!
 - She/Her
 ## Language Stack
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
