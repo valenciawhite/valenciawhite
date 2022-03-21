@@ -8,6 +8,7 @@ Hey y'all, welcome to my profile! I'm a full-time software engineering student @
 - Participating in #100DaysofCode. Follow my journey [here](https://github.com/valenciawhite/100-Days-of-Code)!
 - She/Her
 ## Language Stack
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ## Tools 
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
