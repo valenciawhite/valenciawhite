@@ -11,7 +11,7 @@ Hey y'all, welcome to my profile! I'm a full-time software engineering student @
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ## Tools 
-![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Node.js](https://img.icons8.com/fluency/48/000000/node-js.png)
 ## Blog Posts 
 - [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
 
