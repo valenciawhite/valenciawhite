@@ -1,7 +1,8 @@
 # Valencia White ✨
-Hey y'all, welcome to my profile! I'm a full-time software engineering student @ Flatiron School, learning Full-Stack Development. My developer's path is supplemented by my background in Graphic Design and Digital Illustration.
+Hey, welcome to my profile! I'm a full-time software engineering student @ Flatiron School, learning Full-Stack Development. My developer's path is supplemented by my background knowledge in Graphic Design and Interior Design. I belive the purpose of great code is to go hand-in-hand with great design, in order to create a refined user experience worth remembering. 
+
 - Currently learning Ruby.
-- I write articles on what I learn and my experience as a woman of color in tech on Dev.to . I mostly cover Html, CSS, JavaScript, and Design topics. 
+- I write articles on what I learn on Dev.to . I mostly cover Html, CSS, JavaScript, and Design topics. 
 - Besides coding, I'm passionate about  Capoeira, "human-language" language learning, and b-horror films!
     - Current Language Interests:  Portuguese 
 - She/Her
