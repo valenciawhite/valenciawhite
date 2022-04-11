@@ -1,10 +1,9 @@
 # Valencia White ✨
 Hey y'all, welcome to my profile! I'm a full-time software engineering student @ Flatiron School, learning Full-Stack Development. My developer's path is supplemented by my background in Graphic Design and Digital Illustration.
-- Currently learning React.js and Algorithims.
-- I write articles on what I learn and my experience as a woman of color in tech on Dev.to . I mostly cover Html, CSS, and JavaScript topics. 
+- Currently learning Ruby.
+- I write articles on what I learn and my experience as a woman of color in tech on Dev.to . I mostly cover Html, CSS, JavaScript, and Design topics. 
 - Besides coding, I'm passionate about  Capoeira, "human-language" language learning, and b-horror films!
-    - Current Language Interests:  Spanish + Portuguese 
-- Participating in #100DaysofCode. Follow my journey [here](https://github.com/valenciawhite/100-Days-of-Code)!
+    - Current Language Interests:  Portuguese 
 - She/Her
 ## Language Stack
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
@@ -12,6 +11,7 @@ Hey y'all, welcome to my profile! I'm a full-time software engineering student @
 ## Tools 
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Node.js](https://img.icons8.com/fluency/48/000000/node-js.png)
 ## Blog Posts 
+- [5 Soft-Skills You Will Need To Thrive As A Web Developer](https://dev.to/valenciawhite/5-skills-you-will-need-to-thrive-as-a-developer-438i)
 - [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
 
 - [The Subtle Differences between "innerText" and "textContent" You Should Know](https://dev.to/valenciawhite/the-subtle-differences-between-innertext-innerhtml-and-textcontent-you-should-know-3clc)
