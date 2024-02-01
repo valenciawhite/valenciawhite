@@ -11,11 +11,7 @@ Hey, welcome to my profile! My developer's path is supplemented by my background
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ## Tools 
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Node.js](https://img.icons8.com/fluency/48/000000/node-js.png)
-## Blog Posts 
-- [5 Soft-Skills You Will Need To Thrive As A Web Developer](https://dev.to/valenciawhite/5-skills-you-will-need-to-thrive-as-a-developer-438i)
-- [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
 
-- [The Subtle Differences between "innerText" and "textContent" You Should Know](https://dev.to/valenciawhite/the-subtle-differences-between-innertext-innerhtml-and-textcontent-you-should-know-3clc)
 <!--
 **valenciawhite/valenciawhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
