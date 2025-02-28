@@ -1,5 +1,5 @@
 # Valencia White ✨
-Hey, welcome to my profile! My developer's path is supplemented by my background knowledge in Graphic Design and Interior Design. I belive the purpose of great code is to go hand-in-hand with great design, in order to create a refined user experience worth remembering. 
+Hey, welcome to my profile! I love crafting beautiful, functional, and immersive web experiences. To me, great code and great design go hand in hand to create something truly memorable.
 
 - Professionally  working in, HTML, CSS, and JavaScript.
 
