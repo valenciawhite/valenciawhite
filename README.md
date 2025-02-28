@@ -1,9 +1,8 @@
 # Valencia White ✨
 Hey, welcome to my profile! My developer's path is supplemented by my background knowledge in Graphic Design and Interior Design. I belive the purpose of great code is to go hand-in-hand with great design, in order to create a refined user experience worth remembering. 
 
-- Professionally  working in, JavaScript.
-- Besides coding, I'm passionate about  art/design, "human-language" language learning, and gardening!
-- She/Her
+- Professionally  working in, HTML, CSS, and JavaScript.
+
 ## Language Stack
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
